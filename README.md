@@ -44,9 +44,7 @@ Previously, I worked as a **Data Scientist at Capgemini**, focusing on data-driv
 
 ---
 
-## 📌 Looking for Help With
 
-> Understanding and applying **self-supervised learning techniques** for NLP, particularly in low-resource or healthcare datasets.
 
 ---
 
